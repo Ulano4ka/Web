@@ -1,0 +1,41 @@
+﻿@model System.Collections.Generic.List<DogKennel.Web.Models.DataAccessPostgreSqlProvider.DbKennelOfDog>
+@{
+    ViewBag.Title = "Питомники ";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@foreach (var kennel in Model)
+{
+    <div>
+        @kennel.Name
+        @kennel.Address
+        @kennel.Id
+        <img src="Image?id=@kennel.Id" />
+        <table class="table table-bordered table-responsive table-hover">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Порода</td>
+                    <td>Пол</td>
+                    <td>Дата рождения</td>
+                    <td>Стоимость</td>
+                </tr>
+            </thead>
+            @if (kennel.Dog != null)
+            {
+                foreach (var dog in kennel.Dog)
+                {
+                    <tr>
+                        <td>@dog.Id</td>
+                        <td>@dog.Breed</td>
+                        <td>@dog.Gender</td>
+                        <td>@dog.DateOfBirth</td>
+                        <td>@dog.CostInRubles</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+}

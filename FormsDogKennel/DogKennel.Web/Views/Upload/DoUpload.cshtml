@@ -1,0 +1,32 @@
+﻿@model DogKennel.KennelOfDog
+
+@{
+    ViewBag.Title = "Питомник " + Model.Name;
+    Layout = "_Layout";
+}
+
+<h2>Питомник @Model.Name</h2>
+
+<h3>Адрес: @Model.Address</h3>
+
+<h4>Собаки питомника</h4>
+
+    <table class="table table-bordered table-responsive table-hover">
+        <thead>
+            <tr>
+                <td>Порода</td>
+                <td>Пол</td>
+                <td>Дата рождения</td>
+                <td>Стоимость</td>
+            </tr>
+        </thead>
+        @foreach (var dog in Model.Dog)
+        {
+            <tr>
+                <td>@dog.Breed</td>
+                <td>@dog.Gender</td>
+                <td>@dog.DateOfBirth</td>
+                <td>@dog.CostInRubles</td>
+            </tr>
+        }
+    </table>

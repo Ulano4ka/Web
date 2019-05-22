@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsDogKennel", "FormsDogKennel.csproj", "{DF8110A6-458E-49E3-921D-8AE9E4E0857F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogKennel", "..\DogKennel\DogKennel.csproj", "{7B08236D-2E2E-4229-9B88-C62142307503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogKennel.Web", "DogKennel.Web\DogKennel.Web.csproj", "{BE49A682-41FB-4DF5-988D-77C020E13C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8110A6-458E-49E3-921D-8AE9E4E0857F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8110A6-458E-49E3-921D-8AE9E4E0857F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8110A6-458E-49E3-921D-8AE9E4E0857F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8110A6-458E-49E3-921D-8AE9E4E0857F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B08236D-2E2E-4229-9B88-C62142307503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B08236D-2E2E-4229-9B88-C62142307503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B08236D-2E2E-4229-9B88-C62142307503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B08236D-2E2E-4229-9B88-C62142307503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE49A682-41FB-4DF5-988D-77C020E13C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE49A682-41FB-4DF5-988D-77C020E13C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE49A682-41FB-4DF5-988D-77C020E13C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE49A682-41FB-4DF5-988D-77C020E13C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153E10C8-C0A5-49F1-88BA-6329A3ECF644}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\obj\Debug\FormsDogKennel.Form1.resources
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.GenerateResource.cache
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\bin\Debug\FormsDogKennel.exe.config
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\bin\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\bin\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\obj\Debug\FormsDogKennel.Properties.Resources.resources
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\obj\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\KennelOfDog\FormsDogKennel\obj\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\bin\Debug\FormsDogKennel.exe.config
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\bin\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\bin\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\bin\Debug\DogKennel.dll
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\bin\Debug\DogKennel.pdb
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.csprojAssemblyReference.cache
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.Form1.resources
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.Properties.Resources.resources
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.GenerateResource.cache
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CopyComplete
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.DogForm.resources
+C:\Users\Юлия\Desktop\Новая папка (4)\FormsDogKennel\obj\Debug\FormsDogKennel.EmployeeForm.resources
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\bin\Debug\FormsDogKennel.exe.config
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\bin\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\bin\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\bin\Debug\DogKennel.dll
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\bin\Debug\DogKennel.pdb
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.csprojAssemblyReference.cache
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.DogForm.resources
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.EmployeeForm.resources
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.Form1.resources
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.Properties.Resources.resources
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.GenerateResource.cache
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CopyComplete
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\Anytask\FormsDogKennel\obj\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\bin\Debug\FormsDogKennel.exe.config
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\bin\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\bin\Debug\FormsDogKennel.pdb
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\bin\Debug\DogKennel.dll
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\bin\Debug\DogKennel.pdb
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.csprojAssemblyReference.cache
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.DogForm.resources
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.EmployeeForm.resources
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.Form1.resources
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.Properties.Resources.resources
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.GenerateResource.cache
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.csproj.CopyComplete
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.exe
+C:\Users\Юлия\Desktop\Form\FormsDogKennel\obj\Debug\FormsDogKennel.pdb
